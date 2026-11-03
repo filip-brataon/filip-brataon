@@ -29,5 +29,3 @@ An aspiring developer who is looking to learn new skills in programming and netw
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-
-[![Filip's GitHub stats](https://github-readme-stats.vercel.app/api?username=filip-brataon)](https://github.com/anuraghazra/github-readme-stats)
